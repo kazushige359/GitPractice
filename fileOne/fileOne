@@ -3,3 +3,8 @@
 
 var message = "Hello World";
 
+function show_message(){
+    console.log(message)
+}
+
+show_message
